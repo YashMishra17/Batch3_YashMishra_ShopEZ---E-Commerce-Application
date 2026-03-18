@@ -204,7 +204,4 @@ It simulates how real e-commerce applications work before integrating with backe
 
 ---
 
-    
 
-
-## 📁 Project Structure
