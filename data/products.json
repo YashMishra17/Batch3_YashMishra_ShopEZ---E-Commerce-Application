@@ -1,0 +1,72 @@
+[
+{
+"id":1,
+"name":"Laptop",
+"description":"Reliable laptop for students and professionals, suitable for coding, browsing, and daily work. Offers smooth performance, decent battery backup, and a comfortable keyboard for long usage.",
+"price":60000,
+"image":"images/laptop.jpg"
+},
+{
+"id":2,
+"name":"Smartphone",
+"description":"Feature-rich smartphone with a clear display, good battery life, and a capable camera. Ideal for everyday use, social media, and entertainment.",
+"price":25000,
+"image":"images/mobile.jpg"
+},
+{
+"id":3,
+"name":"Headphones",
+"description":"Wireless headphones with active noise cancellation and balanced sound output. Designed for music, calls, and long listening sessions without discomfort.",
+"price":5000,
+"image":"images/headphones.jpg"
+},
+{
+"id":4,
+"name":"Smart Watch",
+"description":"Smartwatch with fitness tracking, heart rate monitoring, and call notifications. Helps you stay active and connected throughout the day.",
+"price":7000,
+"image":"images/watch.jpg"
+},
+{
+"id":5,
+"name":"Tablet",
+"description":"Slim and lightweight tablet perfect for watching videos, reading, and casual gaming. Offers smooth touch response and a vibrant display.",
+"price":20000,
+"image":"images/tablet.jpg"
+},
+{
+"id":6,
+"name":"Keyboard",
+"description":"Durable mechanical keyboard with tactile keys and solid build quality. Suitable for typing, programming, and gaming setups.",
+"price":3000,
+"image":"images/keyboard.jpg"
+},
+{
+"id":7,
+"name":"Mouse",
+"description":"Ergonomic wireless mouse with smooth tracking and responsive clicks. Comfortable for long work sessions and everyday use.",
+"price":1200,
+"image":"images/mouse.jpg"
+},
+{
+"id":8,
+"name":"Bluetooth Speaker",
+"description":"Compact Bluetooth speaker with strong bass and clear sound output. Easy to carry and perfect for indoor or outdoor music.",
+"price":3500,
+"image":"images/speaker.jpg"
+},
+{
+"id":9,
+"name":"Gaming Monitor",
+"description":"High refresh rate monitor with sharp visuals and low response time. Ideal for gaming, streaming, and multimedia tasks.",
+"price":18000,
+"image":"images/monitor.jpg"
+},
+{
+"id":10,
+"name":"External Hard Drive",
+"description":"Portable 1TB external hard drive for storing files, backups, and media. Offers reliable performance and easy plug-and-play usage.",
+"price":4500,
+"image":"images/harddrive.jpg"
+}
+]
